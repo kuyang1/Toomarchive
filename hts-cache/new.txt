@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+08:10:46	1251/1251	---M--	404	error ('Not%20Found')	text/html	date:Thu,%2024%20Oct%202024%2001:10:45%20GMT	https://toomarchives.com/robots.txt		(from )
+08:10:46	1160/1160	---M-Z	200	added ('OK')	text/html	date:Thu,%2024%20Oct%202024%2000:48:51%20GMT	https://toomarchives.com/	C:/My%20Web%20Sites/toom/toomarchives.com/index.html	(from )
+08:10:46	10813/10813	---M--	200	added ('OK')	image/png	date:Tue,%2011%20Jun%202024%2010:56:43%20GMT	https://toomarchives.com/fav.png	C:/My%20Web%20Sites/toom/toomarchives.com/fav.png	(from https://toomarchives.com/)
+08:10:46	651/651	---M-Z	200	added ('OK')	text/css	date:Mon,%2010%20Jun%202024%2008:26:59%20GMT	https://toomarchives.com/styles.css	C:/My%20Web%20Sites/toom/toomarchives.com/styles.css	(from https://toomarchives.com/)
+08:10:47	37798/37798	---M--	200	added ('OK')	image/png	date:Sun,%2009%20Jun%202024%2022:48:16%20GMT	https://toomarchives.com/telegram2.png	C:/My%20Web%20Sites/toom/toomarchives.com/telegram2.png	(from https://toomarchives.com/)
+08:10:47	34560/34560	---M--	200	added ('OK')	image/png	date:Sun,%2009%20Jun%202024%2022:48:16%20GMT	https://toomarchives.com/twitter2.png	C:/My%20Web%20Sites/toom/toomarchives.com/twitter2.png	(from https://toomarchives.com/)
+08:10:47	45386/45386	---M--	200	added ('OK')	image/png	date:Sun,%2009%20Jun%202024%2022:48:15%20GMT	https://toomarchives.com/pump.png	C:/My%20Web%20Sites/toom/toomarchives.com/pump.png	(from https://toomarchives.com/)
